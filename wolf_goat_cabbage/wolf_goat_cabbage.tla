@@ -91,8 +91,6 @@ G1:         if (exists(Goat) /\ isWithoutFarmer(Goat) /\ areTogether(Goat, Cabba
         }
     }
 *)
-}
-*)
 \* BEGIN TRANSLATION (chksum(pcal) = "60a80568" /\ chksum(tla) = "b48624a7")
 VARIABLES startSide, endSide, pc
 

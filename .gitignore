@@ -1,3 +1,5 @@
-states/*
+**/states/
 *.old
 *.out
+*.tex
+*.dvi
